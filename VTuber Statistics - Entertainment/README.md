@@ -37,6 +37,8 @@ Using the processed data, two dashboards were created, all of them featuring fil
 
 ### Dashboard 1: Overall Statistics
 
+![image](https://github.com/falconpunch082/industry-application/assets/26648391/f0feadcf-a12d-4627-802e-eac3d46a91bb)
+
 Access the dashboard (here)[https://public.tableau.com/app/profile/nicholas.dale/viz/HololiveStats-OverallView/Dashboard1?publish=yes]!
 
 This dashboard features a bubble chart which contains bubbles named after individual Hololive talents, with a bigger bubble indicating more financial contribution done by the talent. Colour was added to indicate
@@ -45,6 +47,8 @@ what generation the talent is from.
 In addition, a bar chart is available. This bar chart compares subscriber counts between the talents and generations.
 
 ### Dashboard 2: Individual Performance
+
+![image](https://github.com/falconpunch082/industry-application/assets/26648391/72140116-7c2a-4f86-93f7-a587b5790e01)
 
 Access the dashboard (here)[https://public.tableau.com/app/profile/nicholas.dale/viz/HololiveStats-IndividualPerformance/Dashboard2?publish=yes]!
 
