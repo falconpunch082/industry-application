@@ -1,7 +1,7 @@
 # Consumer Behaviour Analysis with Power BI Dashboards
 
 ## Purpose of Project
-This project serves to show my capability to adopt a new tool and add it to my skillset; I demonstrated such ability by learning how to use the popular data visualisation and transformation tool Power BI.
+This project serves to show my capability to adopt a new tool and add it to my skillset; I demonstrated such ability by learning how to use the popular data visualisation and transformation tool Power BI. This was all done within a day (25/02/2024).
 
 One of the important things about running a company providing products is to understand its customers, whether it is through direct feedback or understanding the audience through statistics. By understanding its customers, companies are better prepared to create products that attract their audience and therefore bring in more revenue. It is also useful in deciding where to expand operations, and whether their current way of working is beneficial and/or sustainable in the long run.
 
