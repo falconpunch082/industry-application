@@ -11,8 +11,9 @@ More details are available in each folder. This README only serves as a table of
   ![image](https://github.com/falconpunch082/industry-application/assets/26648391/d0338c19-0533-48bc-b812-d91186a3ad7a)
 
 ## Ongoing Projects
-- Stock Price History w/ Flask API
+Projects are on hold now as I am now focusing on my Bachelor of Data Science studies.
 
 ## Upcoming Projects
+- Stock Price History w/ Flask API
 - Russian Air Service Dashboard w/ Leaflet Application
 - Telco Customer Churn Predictor w/ Tensorflow
