@@ -39,7 +39,7 @@ Using the processed data, two dashboards were created, all of them featuring fil
 
 ![image](https://github.com/falconpunch082/industry-application/assets/26648391/f0feadcf-a12d-4627-802e-eac3d46a91bb)
 
-Access the dashboard (here)[https://public.tableau.com/app/profile/nicholas.dale/viz/HololiveStats-OverallView/Dashboard1?publish=yes]!
+Access the dashboard [here](https://public.tableau.com/app/profile/nicholas.dale/viz/HololiveStats-OverallView/Dashboard1?publish=yes)!
 
 This dashboard features a bubble chart which contains bubbles named after individual Hololive talents, with a bigger bubble indicating more financial contribution done by the talent. Colour was added to indicate
 what generation the talent is from.
@@ -50,7 +50,7 @@ In addition, a bar chart is available. This bar chart compares subscriber counts
 
 ![image](https://github.com/falconpunch082/industry-application/assets/26648391/72140116-7c2a-4f86-93f7-a587b5790e01)
 
-Access the dashboard (here)[https://public.tableau.com/app/profile/nicholas.dale/viz/HololiveStats-IndividualPerformance/Dashboard2?publish=yes]!
+Access the dashboard [here](https://public.tableau.com/app/profile/nicholas.dale/viz/HololiveStats-IndividualPerformance/Dashboard2?publish=yes)!
 
 This dashboard features a individual talent's superchat statistics (number of superchats received and total superchat money gained), viewer count and status (either a member or just a chatter), and total subscribers
 and videos. Each individual can be explored with the available filter. This filter changes the icon on top of it, enabling the user to see the VTuber's avatar.
