@@ -15,7 +15,7 @@ variations (generations and locale). This is done in the hope that the company w
 informed on how to move forward with their expansion and operation plans.
 
 ## Data Collection
-Data was collected from this (dataset)[https://www.kaggle.com/datasets/uetchy/vtuber-livechat-elements?select=superchat_stats.csv]. Please refer to documentation attached in linked website to further understand variables within the dataset.
+Data was collected from this [dataset](https://www.kaggle.com/datasets/uetchy/vtuber-livechat-elements?select=superchat_stats.csv). Please refer to documentation attached in linked website to further understand variables within the dataset.
 
 ## Exploratory Data Analysis
 Exploratory data analysis was first done on a Jupyter notebook. From there, it was found that 1358 VTubers from various affiliations were recorded over the span of March 2021 to July 2022.
